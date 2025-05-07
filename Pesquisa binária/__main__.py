@@ -20,7 +20,9 @@ class PesquisaBinaria:
 
         return None
 
+
 if __name__ == "__main__":
+
     ps = PesquisaBinaria()
     minha_lista = [1, 3, 5, 7, 9]
 
